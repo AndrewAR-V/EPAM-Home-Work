@@ -1,0 +1,13 @@
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task 5\EPAM Task 1\bin\Debug\EPAM Task 1.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task 5\EPAM Task 1\bin\Debug\EPAM Task 1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task 5\EPAM Task 1\obj\Debug\EPAM Task 5.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task 5\EPAM Task 1\obj\Debug\EPAM Task 1.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task 5\EPAM Task 1\obj\Debug\EPAM Task 1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task\EPAM Task 5\bin\Debug\EPAM Task 1.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task\EPAM Task 5\bin\Debug\EPAM Task 1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task\EPAM Task 5\obj\Debug\EPAM Task 1.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task\EPAM Task 5\obj\Debug\EPAM Task 1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task I\EPAM Task 5\bin\Debug\EPAM Task 1.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task I\EPAM Task 5\bin\Debug\EPAM Task 1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task I\EPAM Task 5\obj\Debug\EPAM Task 1.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\EPAM Task I\EPAM Task 5\obj\Debug\EPAM Task 1.pdb
