@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPAM Task 1", "EPAM Task III\EPAM Task 1.csproj", "{A38696E3-91B2-42FB-99E4-5602641DA71A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPAM Task 2", "EPAM Task 2\EPAM Task 2.csproj", "{A96A019D-07AA-43F0-8AD6-1C1C0263691D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38696E3-91B2-42FB-99E4-5602641DA71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38696E3-91B2-42FB-99E4-5602641DA71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38696E3-91B2-42FB-99E4-5602641DA71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38696E3-91B2-42FB-99E4-5602641DA71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96A019D-07AA-43F0-8AD6-1C1C0263691D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96A019D-07AA-43F0-8AD6-1C1C0263691D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96A019D-07AA-43F0-8AD6-1C1C0263691D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96A019D-07AA-43F0-8AD6-1C1C0263691D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
